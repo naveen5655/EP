@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="myxsl.xsl" ?>
+<contact>
+  <person>
+    <name>Badisa Naveen</name>
+    <mobile>2345123678</mobile>
+  </person>
+  <person>
+    <name>Hari</name>
+    <mobile>4321567804</mobile>
+  </person>
+  <person>
+    <name>Teja</name>
+    <mobile>1321587804</mobile>
+  </person>
+  <person>
+    <name>RAM</name>
+    <mobile>5878041321</mobile>
+  </person>
+   <person>
+    <name>Ravi</name>
+    <mobile>8041587321</mobile>
+  </person>
+</contact>
